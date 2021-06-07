@@ -13,7 +13,9 @@ EQUAL
 
 Enter UserId of a user or All for all users 
 all
-**** Balance sheet of user Madhuri Sharma
+
+
+****Balance sheet of user Madhuri Sharma
 Madhuri Sharma paid Ashok Sinha an Amount of Rs 333.33
 Madhuri Sharma paid Akshata Ohm an Amount of Rs 333.33
 
